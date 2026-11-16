@@ -1,0 +1,39 @@
+{
+  "id": "slaa45vz56",
+  "name": {
+    "tr": "Teklif",
+    "en": "Quote",
+    "ar": "عرض السعر"
+  },
+  "description": {
+    "tr": "Üç adımda ambalaj teklif formu (demo).",
+    "en": "Three-step packaging quote form (demo).",
+    "ar": "نموذج عرض سعر للتغليف في ثلاث خطوات (تجريبي)."
+  },
+  "keyword": {
+    "tr": "teklif",
+    "en": "quote",
+    "ar": "عرض سعر"
+  },
+  "path": "teklif-al",
+  "icon": "request_quote",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "23cgjs"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Teklif",
+    "en": "Quote",
+    "ar": "عرض السعر"
+  },
+  "date": "2026-11-16T22:37:28.596Z",
+  "update": "2026-11-16T22:37:28.613Z"
+}

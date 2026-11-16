@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "id": "w22oub87mf",
+      "name": {
+        "tr": "Katalog",
+        "en": "Catalogue",
+        "ar": "الكتالوج"
+      },
+      "description": {
+        "tr": "Baskılı kutu, oluklu koli, etiket ve stand kataloğu.",
+        "en": "Catalogue of printed boxes, corrugated cartons, labels and displays.",
+        "ar": "كتالوج العلب المطبوعة والصناديق المموجة والملصقات وحوامل العرض."
+      },
+      "path": "hizmetler",
+      "icon": "menu_book",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "x2kma7",
+          "rq2h18"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Atölye",
+        "en": "Workshop",
+        "ar": "الورشة"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "factory",
+      "desing": {
+        "header": [],
+        "body": [
+          "wq0nd3",
+          "rq2h18"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Tasarım masasından depoya bir kutunun yolu (kurgusal).",
+        "en": "A box’s route from the design desk to the warehouse (fictional).",
+        "ar": "رحلة العلبة من طاولة التصميم إلى المستودع (افتراضي)."
+      }
+    },
+    {
+      "id": "slaa45vz56",
+      "name": {
+        "tr": "Teklif",
+        "en": "Quote",
+        "ar": "عرض السعر"
+      },
+      "description": {
+        "tr": "Üç adımda ambalaj teklif formu (demo).",
+        "en": "Three-step packaging quote form (demo).",
+        "ar": "نموذج عرض سعر للتغليف في ثلاث خطوات (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "request_quote",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "23cgjs"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 3,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "rq2h18",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Sipariş takibi, adres ve harita.",
+        "en": "Order tracking, address and map.",
+        "ar": "تتبع الطلب والعنوان والخريطة."
+      }
+    }
+  ],
+  "desc": []
+}

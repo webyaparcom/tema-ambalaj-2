@@ -1,0 +1,40 @@
+{
+  "id": "w22oub87mf",
+  "name": {
+    "tr": "Katalog",
+    "en": "Catalogue",
+    "ar": "الكتالوج"
+  },
+  "description": {
+    "tr": "Baskılı kutu, oluklu koli, etiket ve stand kataloğu.",
+    "en": "Catalogue of printed boxes, corrugated cartons, labels and displays.",
+    "ar": "كتالوج العلب المطبوعة والصناديق المموجة والملصقات وحوامل العرض."
+  },
+  "keyword": {
+    "tr": "ambalaj kataloğu",
+    "en": "packaging catalogue",
+    "ar": "كتالوج التغليف"
+  },
+  "path": "hizmetler",
+  "icon": "menu_book",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "x2kma7",
+      "rq2h18"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Katalog",
+    "en": "Catalogue",
+    "ar": "الكتالوج"
+  },
+  "date": "2026-11-16T22:37:28.575Z",
+  "update": "2026-11-16T22:37:28.583Z"
+}
