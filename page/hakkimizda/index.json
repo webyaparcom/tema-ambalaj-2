@@ -2,7 +2,9 @@
   "name": {
     "tr": "Atölye",
     "en": "Workshop",
-    "ar": "الورشة"
+    "ar": "الورشة",
+    "de": "Workshop",
+    "ru": "Воркшоп"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Tasarım masasından depoya bir kutunun yolu (kurgusal).",
     "en": "A box’s route from the design desk to the warehouse (fictional).",
-    "ar": "رحلة العلبة من طاولة التصميم إلى المستودع (افتراضي)."
+    "ar": "رحلة العلبة من طاولة التصميم إلى المستودع (افتراضي).",
+    "de": "Der Weg einer Kiste vom Designtisch ins Lager (fiktiv).",
+    "ru": "Путь коробки от дизайнерского стола до склада (вымышленно)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Atölye",
     "en": "Workshop",
-    "ar": "الورشة"
+    "ar": "الورشة",
+    "de": "Workshop",
+    "ru": "Воркшоп"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T22:37:28.590Z",
