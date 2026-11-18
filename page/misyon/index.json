@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Markaların ürününü rafta tanınır kılan baskılı ambalajı, tek tesiste ve sözünü verdiğimiz tarihte üretmek.</p>",
     "en": "<h2>Our mission</h2>\n<p>To make printed packaging that lets brands be recognised on the shelf, in one plant and on the promised date.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>إنتاج تغليف مطبوع يجعل منتجات العلامات مميزة على الرف، في منشأة واحدة وفي الموعد المتفق عليه.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>إنتاج تغليف مطبوع يجعل منتجات العلامات مميزة على الرف، في منشأة واحدة وفي الموعد المتفق عليه.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Bedruckte Verpackungen, die das Produkt von Marken im Regal erkennbar machen, in einer einzigen Anlage und zum zugesagten Termin herzustellen.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Производить печатную упаковку, благодаря которой продукт брендов узнаваем на полке, на одном предприятии и в обещанный срок.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T22:37:28.213Z",
   "update": "2026-11-16T22:37:28.632Z",

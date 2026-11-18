@@ -3,17 +3,23 @@
   "name": {
     "tr": "Teklif",
     "en": "Quote",
-    "ar": "عرض السعر"
+    "ar": "عرض السعر",
+    "de": "Angebot",
+    "ru": "Заявка"
   },
   "description": {
     "tr": "Üç adımda ambalaj teklif formu (demo).",
     "en": "Three-step packaging quote form (demo).",
-    "ar": "نموذج عرض سعر للتغليف في ثلاث خطوات (تجريبي)."
+    "ar": "نموذج عرض سعر للتغليف في ثلاث خطوات (تجريبي).",
+    "de": "Dreistufiges Angebotsformular für Verpackung (Demo).",
+    "ru": "Форма запроса цены на упаковку в три шага (демо)."
   },
   "keyword": {
     "tr": "teklif",
     "en": "quote",
-    "ar": "عرض سعر"
+    "ar": "عرض سعر",
+    "de": "Angebot",
+    "ru": "оценка"
   },
   "path": "teklif-al",
   "icon": "request_quote",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Teklif",
     "en": "Quote",
-    "ar": "عرض السعر"
+    "ar": "عرض السعر",
+    "de": "Angebot",
+    "ru": "Заявка"
   },
   "date": "2026-11-16T22:37:28.596Z",
   "update": "2026-11-16T22:37:28.613Z"

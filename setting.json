@@ -4,12 +4,16 @@
   "description": {
     "tr": "Tabaka Ambalaj: Bursa’da baskılı karton kutu, oluklu koli, etiket ve mağaza standı üretimi. Katalogdan seçin, siparişinizi takip edin. Demo site; içerik kurgusaldır.",
     "en": "Tabaka Packaging: printed cartons, corrugated boxes, labels and in-store displays made in Bursa. Choose from the catalogue and track your order. Demo site; content is fictional.",
-    "ar": "تاباكا للتغليف: علب كرتونية مطبوعة وصناديق مموجة وملصقات وحوامل عرض تُصنع في بورصة. اختر من الكتالوج وتابع طلبك. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "تاباكا للتغليف: علب كرتونية مطبوعة وصناديق مموجة وملصقات وحوامل عرض تُصنع في بورصة. اختر من الكتالوج وتابع طلبك. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Tabaka Ambalaj: Herstellung von bedruckten Kartons, Wellpappe-Kartons, Etiketten und Verkaufsdisplays in Bursa. Wählen Sie aus dem Katalog und verfolgen Sie Ihre Bestellung. Demo-Website; der Inhalt ist fiktiv.",
+    "ru": "Tabaka Ambalaj: производство картонных коробок с печатью, гофрокоробов, этикеток и торговых стендов в Бурсе. Выбирайте из каталога и отслеживайте заказ. Демо-сайт; содержание вымышленное."
   },
   "keyword": {
     "tr": "baskılı kutu, karton kutu, oluklu koli, etiket, ambalaj kataloğu, Bursa",
     "en": "printed box, carton, corrugated box, label, packaging catalogue, Bursa",
-    "ar": "علبة مطبوعة، علبة كرتون، صندوق مموج، ملصق، كتالوج تغليف، بورصة"
+    "ar": "علبة مطبوعة، علبة كرتون، صندوق مموج، ملصق، كتالوج تغليف، بورصة",
+    "de": "bedruckte Box, Karton, Wellpappe, Etikett, Verpackungskatalog, Bursa",
+    "ru": "печатная коробка, картон, гофрокартон, этикетка, каталог упаковки, Бурса"
   },
   "category": "Kurumsal",
   "name": "Tabaka Ambalaj",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,
